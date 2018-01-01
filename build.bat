@@ -2,7 +2,7 @@
 
 ECHO ================================================================================
 ECHO Make sure your Emscripten environment is configured properly 
-ECHO Please run %EMSDK_HOME%\emsdk_env.bat before running this .bat file
+ECHO Please run %%EMSDK_HOME%%\emsdk_env.bat before running this .bat file
 ECHO Otherwise, you will get error 'emcc is not recognized as an internal or external command'
 ECHO ================================================================================
 
